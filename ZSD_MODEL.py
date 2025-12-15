@@ -3,7 +3,7 @@ Created on 15 Ara 2025
 
 @author: halukuckurt
 
-son eklemeler yapıldı.
+son eklemeler yapıldı ve güncellendi
 '''
 import os
 
